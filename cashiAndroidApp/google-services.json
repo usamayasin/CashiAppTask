@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "349760496611",
+    "firebase_url": "https://cashiapptask-default-rtdb.firebaseio.com",
+    "project_id": "cashiapptask",
+    "storage_bucket": "cashiapptask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349760496611:android:019f6f7a6155ac9694b6d6",
+        "android_client_info": {
+          "package_name": "com.example.cashiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5G5GQFGKarefZXA1tbEv6uYpMdpE8oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349760496611:android:2466a4ae24b78d2a94b6d6",
+        "android_client_info": {
+          "package_name": "com.example.cashiapp.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5G5GQFGKarefZXA1tbEv6uYpMdpE8oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
